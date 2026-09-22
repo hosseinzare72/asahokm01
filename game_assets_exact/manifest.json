@@ -1,0 +1,925 @@
+{
+  "source": "001 (2).png",
+  "source_size": [
+    1536,
+    1024
+  ],
+  "method": "lossless pixel crop only; no resizing, recoloring, retouching, or AI generation",
+  "assets": [
+    {
+      "group": "01_cards",
+      "name": "card_ace_spades",
+      "box": [
+        16,
+        47,
+        164,
+        293
+      ],
+      "size": [
+        148,
+        246
+      ],
+      "file": "01_cards/card_ace_spades.png"
+    },
+    {
+      "group": "01_cards",
+      "name": "card_king_hearts",
+      "box": [
+        175,
+        47,
+        324,
+        293
+      ],
+      "size": [
+        149,
+        246
+      ],
+      "file": "01_cards/card_king_hearts.png"
+    },
+    {
+      "group": "01_cards",
+      "name": "card_queen_clubs",
+      "box": [
+        335,
+        47,
+        484,
+        293
+      ],
+      "size": [
+        149,
+        246
+      ],
+      "file": "01_cards/card_queen_clubs.png"
+    },
+    {
+      "group": "01_cards",
+      "name": "card_jack_diamonds",
+      "box": [
+        495,
+        47,
+        643,
+        293
+      ],
+      "size": [
+        148,
+        246
+      ],
+      "file": "01_cards/card_jack_diamonds.png"
+    },
+    {
+      "group": "01_cards",
+      "name": "card_back",
+      "box": [
+        654,
+        44,
+        825,
+        294
+      ],
+      "size": [
+        171,
+        250
+      ],
+      "file": "01_cards/card_back.png"
+    },
+    {
+      "group": "02_backgrounds",
+      "name": "background_teal",
+      "box": [
+        849,
+        43,
+        1010,
+        320
+      ],
+      "size": [
+        161,
+        277
+      ],
+      "file": "02_backgrounds/background_teal.png"
+    },
+    {
+      "group": "02_backgrounds",
+      "name": "background_purple",
+      "box": [
+        1020,
+        43,
+        1180,
+        320
+      ],
+      "size": [
+        160,
+        277
+      ],
+      "file": "02_backgrounds/background_purple.png"
+    },
+    {
+      "group": "02_backgrounds",
+      "name": "background_green",
+      "box": [
+        1189,
+        43,
+        1349,
+        320
+      ],
+      "size": [
+        160,
+        277
+      ],
+      "file": "02_backgrounds/background_green.png"
+    },
+    {
+      "group": "02_backgrounds",
+      "name": "background_red",
+      "box": [
+        1357,
+        43,
+        1519,
+        320
+      ],
+      "size": [
+        162,
+        277
+      ],
+      "file": "02_backgrounds/background_red.png"
+    },
+    {
+      "group": "03_ui_panels",
+      "name": "panel_main_menu",
+      "box": [
+        14,
+        369,
+        240,
+        731
+      ],
+      "size": [
+        226,
+        362
+      ],
+      "file": "03_ui_panels/panel_main_menu.png"
+    },
+    {
+      "group": "03_ui_panels",
+      "name": "panel_game_room",
+      "box": [
+        252,
+        369,
+        484,
+        731
+      ],
+      "size": [
+        232,
+        362
+      ],
+      "file": "03_ui_panels/panel_game_room.png"
+    },
+    {
+      "group": "03_ui_panels",
+      "name": "panel_winner",
+      "box": [
+        496,
+        369,
+        730,
+        731
+      ],
+      "size": [
+        234,
+        362
+      ],
+      "file": "03_ui_panels/panel_winner.png"
+    },
+    {
+      "group": "03_ui_panels",
+      "name": "panel_tutorial",
+      "box": [
+        743,
+        369,
+        965,
+        731
+      ],
+      "size": [
+        222,
+        362
+      ],
+      "file": "03_ui_panels/panel_tutorial.png"
+    },
+    {
+      "group": "04_buttons",
+      "name": "button_confirm",
+      "box": [
+        1004,
+        380,
+        1154,
+        445
+      ],
+      "size": [
+        150,
+        65
+      ],
+      "file": "04_buttons/button_confirm.png"
+    },
+    {
+      "group": "04_buttons",
+      "name": "button_cancel",
+      "box": [
+        1164,
+        380,
+        1271,
+        445
+      ],
+      "size": [
+        107,
+        65
+      ],
+      "file": "04_buttons/button_cancel.png"
+    },
+    {
+      "group": "04_buttons",
+      "name": "button_back",
+      "box": [
+        1282,
+        380,
+        1396,
+        445
+      ],
+      "size": [
+        114,
+        65
+      ],
+      "file": "04_buttons/button_back.png"
+    },
+    {
+      "group": "04_buttons",
+      "name": "button_help",
+      "box": [
+        1407,
+        380,
+        1513,
+        445
+      ],
+      "size": [
+        106,
+        65
+      ],
+      "file": "04_buttons/button_help.png"
+    },
+    {
+      "group": "04_buttons",
+      "name": "button_plus",
+      "box": [
+        1001,
+        464,
+        1089,
+        542
+      ],
+      "size": [
+        88,
+        78
+      ],
+      "file": "04_buttons/button_plus.png"
+    },
+    {
+      "group": "04_buttons",
+      "name": "button_minus",
+      "box": [
+        1098,
+        464,
+        1186,
+        542
+      ],
+      "size": [
+        88,
+        78
+      ],
+      "file": "04_buttons/button_minus.png"
+    },
+    {
+      "group": "04_buttons",
+      "name": "button_sound_on",
+      "box": [
+        1194,
+        464,
+        1284,
+        542
+      ],
+      "size": [
+        90,
+        78
+      ],
+      "file": "04_buttons/button_sound_on.png"
+    },
+    {
+      "group": "04_buttons",
+      "name": "button_sound_off",
+      "box": [
+        1300,
+        464,
+        1390,
+        542
+      ],
+      "size": [
+        90,
+        78
+      ],
+      "file": "04_buttons/button_sound_off.png"
+    },
+    {
+      "group": "04_buttons",
+      "name": "button_settings",
+      "box": [
+        1404,
+        464,
+        1494,
+        542
+      ],
+      "size": [
+        90,
+        78
+      ],
+      "file": "04_buttons/button_settings.png"
+    },
+    {
+      "group": "04_buttons",
+      "name": "button_buy",
+      "box": [
+        998,
+        568,
+        1148,
+        643
+      ],
+      "size": [
+        150,
+        75
+      ],
+      "file": "04_buttons/button_buy.png"
+    },
+    {
+      "group": "04_buttons",
+      "name": "button_receive",
+      "box": [
+        1161,
+        568,
+        1321,
+        643
+      ],
+      "size": [
+        160,
+        75
+      ],
+      "file": "04_buttons/button_receive.png"
+    },
+    {
+      "group": "04_buttons",
+      "name": "button_connect",
+      "box": [
+        1329,
+        568,
+        1517,
+        643
+      ],
+      "size": [
+        188,
+        75
+      ],
+      "file": "04_buttons/button_connect.png"
+    },
+    {
+      "group": "05_panel_elements",
+      "name": "main_logo_asa",
+      "box": [
+        55,
+        389,
+        199,
+        470
+      ],
+      "size": [
+        144,
+        81
+      ],
+      "file": "05_panel_elements/main_logo_asa.png"
+    },
+    {
+      "group": "05_panel_elements",
+      "name": "main_button_start_game",
+      "box": [
+        53,
+        477,
+        193,
+        522
+      ],
+      "size": [
+        140,
+        45
+      ],
+      "file": "05_panel_elements/main_button_start_game.png"
+    },
+    {
+      "group": "05_panel_elements",
+      "name": "main_button_online",
+      "box": [
+        53,
+        525,
+        194,
+        570
+      ],
+      "size": [
+        141,
+        45
+      ],
+      "file": "05_panel_elements/main_button_online.png"
+    },
+    {
+      "group": "05_panel_elements",
+      "name": "main_button_friends",
+      "box": [
+        53,
+        574,
+        194,
+        617
+      ],
+      "size": [
+        141,
+        43
+      ],
+      "file": "05_panel_elements/main_button_friends.png"
+    },
+    {
+      "group": "05_panel_elements",
+      "name": "main_button_store",
+      "box": [
+        53,
+        620,
+        194,
+        665
+      ],
+      "size": [
+        141,
+        45
+      ],
+      "file": "05_panel_elements/main_button_store.png"
+    },
+    {
+      "group": "05_panel_elements",
+      "name": "main_icon_settings",
+      "box": [
+        44,
+        673,
+        86,
+        716
+      ],
+      "size": [
+        42,
+        43
+      ],
+      "file": "05_panel_elements/main_icon_settings.png"
+    },
+    {
+      "group": "05_panel_elements",
+      "name": "main_icon_mail",
+      "box": [
+        103,
+        673,
+        145,
+        716
+      ],
+      "size": [
+        42,
+        43
+      ],
+      "file": "05_panel_elements/main_icon_mail.png"
+    },
+    {
+      "group": "05_panel_elements",
+      "name": "main_icon_trophy",
+      "box": [
+        162,
+        673,
+        204,
+        716
+      ],
+      "size": [
+        42,
+        43
+      ],
+      "file": "05_panel_elements/main_icon_trophy.png"
+    },
+    {
+      "group": "05_panel_elements",
+      "name": "room_option_easy",
+      "box": [
+        365,
+        451,
+        460,
+        495
+      ],
+      "size": [
+        95,
+        44
+      ],
+      "file": "05_panel_elements/room_option_easy.png"
+    },
+    {
+      "group": "05_panel_elements",
+      "name": "room_option_medium",
+      "box": [
+        365,
+        505,
+        460,
+        548
+      ],
+      "size": [
+        95,
+        43
+      ],
+      "file": "05_panel_elements/room_option_medium.png"
+    },
+    {
+      "group": "05_panel_elements",
+      "name": "room_option_4players",
+      "box": [
+        365,
+        557,
+        460,
+        601
+      ],
+      "size": [
+        95,
+        44
+      ],
+      "file": "05_panel_elements/room_option_4players.png"
+    },
+    {
+      "group": "05_panel_elements",
+      "name": "room_button_start",
+      "box": [
+        277,
+        632,
+        462,
+        691
+      ],
+      "size": [
+        185,
+        59
+      ],
+      "file": "05_panel_elements/room_button_start.png"
+    },
+    {
+      "group": "05_panel_elements",
+      "name": "winner_trophy_art",
+      "box": [
+        515,
+        408,
+        708,
+        559
+      ],
+      "size": [
+        193,
+        151
+      ],
+      "file": "05_panel_elements/winner_trophy_art.png"
+    },
+    {
+      "group": "05_panel_elements",
+      "name": "winner_button_continue",
+      "box": [
+        531,
+        659,
+        697,
+        712
+      ],
+      "size": [
+        166,
+        53
+      ],
+      "file": "05_panel_elements/winner_button_continue.png"
+    },
+    {
+      "group": "05_panel_elements",
+      "name": "tutorial_cards_hand_art",
+      "box": [
+        765,
+        448,
+        929,
+        558
+      ],
+      "size": [
+        164,
+        110
+      ],
+      "file": "05_panel_elements/tutorial_cards_hand_art.png"
+    },
+    {
+      "group": "05_panel_elements",
+      "name": "tutorial_button_next",
+      "box": [
+        772,
+        659,
+        936,
+        712
+      ],
+      "size": [
+        164,
+        53
+      ],
+      "file": "05_panel_elements/tutorial_button_next.png"
+    },
+    {
+      "group": "06_icons",
+      "name": "icon_profile",
+      "box": [
+        15,
+        790,
+        83,
+        861
+      ],
+      "size": [
+        68,
+        71
+      ],
+      "file": "06_icons/icon_profile.png"
+    },
+    {
+      "group": "06_icons",
+      "name": "icon_friends",
+      "box": [
+        94,
+        790,
+        162,
+        861
+      ],
+      "size": [
+        68,
+        71
+      ],
+      "file": "06_icons/icon_friends.png"
+    },
+    {
+      "group": "06_icons",
+      "name": "icon_leaderboard",
+      "box": [
+        175,
+        790,
+        244,
+        861
+      ],
+      "size": [
+        69,
+        71
+      ],
+      "file": "06_icons/icon_leaderboard.png"
+    },
+    {
+      "group": "06_icons",
+      "name": "icon_gift",
+      "box": [
+        260,
+        790,
+        328,
+        861
+      ],
+      "size": [
+        68,
+        71
+      ],
+      "file": "06_icons/icon_gift.png"
+    },
+    {
+      "group": "06_icons",
+      "name": "icon_store",
+      "box": [
+        345,
+        790,
+        413,
+        861
+      ],
+      "size": [
+        68,
+        71
+      ],
+      "file": "06_icons/icon_store.png"
+    },
+    {
+      "group": "06_icons",
+      "name": "icon_quests",
+      "box": [
+        428,
+        790,
+        496,
+        861
+      ],
+      "size": [
+        68,
+        71
+      ],
+      "file": "06_icons/icon_quests.png"
+    },
+    {
+      "group": "06_icons",
+      "name": "icon_settings",
+      "box": [
+        520,
+        790,
+        590,
+        861
+      ],
+      "size": [
+        70,
+        71
+      ],
+      "file": "06_icons/icon_settings.png"
+    },
+    {
+      "group": "07_chips_and_effects",
+      "name": "chip_10",
+      "box": [
+        618,
+        780,
+        696,
+        861
+      ],
+      "size": [
+        78,
+        81
+      ],
+      "file": "07_chips_and_effects/chip_10.png"
+    },
+    {
+      "group": "07_chips_and_effects",
+      "name": "chip_50",
+      "box": [
+        701,
+        780,
+        783,
+        861
+      ],
+      "size": [
+        82,
+        81
+      ],
+      "file": "07_chips_and_effects/chip_50.png"
+    },
+    {
+      "group": "07_chips_and_effects",
+      "name": "chip_100",
+      "box": [
+        790,
+        780,
+        871,
+        861
+      ],
+      "size": [
+        81,
+        81
+      ],
+      "file": "07_chips_and_effects/chip_100.png"
+    },
+    {
+      "group": "07_chips_and_effects",
+      "name": "chip_500",
+      "box": [
+        877,
+        780,
+        959,
+        861
+      ],
+      "size": [
+        82,
+        81
+      ],
+      "file": "07_chips_and_effects/chip_500.png"
+    },
+    {
+      "group": "07_chips_and_effects",
+      "name": "spark_gold_large",
+      "box": [
+        620,
+        865,
+        691,
+        936
+      ],
+      "size": [
+        71,
+        71
+      ],
+      "file": "07_chips_and_effects/spark_gold_large.png"
+    },
+    {
+      "group": "07_chips_and_effects",
+      "name": "spark_gold_small",
+      "box": [
+        702,
+        865,
+        778,
+        936
+      ],
+      "size": [
+        76,
+        71
+      ],
+      "file": "07_chips_and_effects/spark_gold_small.png"
+    },
+    {
+      "group": "07_chips_and_effects",
+      "name": "spark_purple",
+      "box": [
+        789,
+        865,
+        866,
+        936
+      ],
+      "size": [
+        77,
+        71
+      ],
+      "file": "07_chips_and_effects/spark_purple.png"
+    },
+    {
+      "group": "07_chips_and_effects",
+      "name": "coin_stack",
+      "box": [
+        875,
+        868,
+        958,
+        936
+      ],
+      "size": [
+        83,
+        68
+      ],
+      "file": "07_chips_and_effects/coin_stack.png"
+    },
+    {
+      "group": "08_avatar_frames",
+      "name": "avatar_frame_teal",
+      "box": [
+        1001,
+        744,
+        1123,
+        884
+      ],
+      "size": [
+        122,
+        140
+      ],
+      "file": "08_avatar_frames/avatar_frame_teal.png"
+    },
+    {
+      "group": "08_avatar_frames",
+      "name": "avatar_frame_purple",
+      "box": [
+        1132,
+        744,
+        1254,
+        884
+      ],
+      "size": [
+        122,
+        140
+      ],
+      "file": "08_avatar_frames/avatar_frame_purple.png"
+    },
+    {
+      "group": "08_avatar_frames",
+      "name": "avatar_frame_red_gold",
+      "box": [
+        1261,
+        744,
+        1387,
+        884
+      ],
+      "size": [
+        126,
+        140
+      ],
+      "file": "08_avatar_frames/avatar_frame_red_gold.png"
+    },
+    {
+      "group": "08_avatar_frames",
+      "name": "avatar_frame_silver",
+      "box": [
+        1395,
+        744,
+        1520,
+        884
+      ],
+      "size": [
+        125,
+        140
+      ],
+      "file": "08_avatar_frames/avatar_frame_silver.png"
+    },
+    {
+      "group": "09_branding",
+      "name": "logo_asa_bottom",
+      "box": [
+        542,
+        929,
+        984,
+        1021
+      ],
+      "size": [
+        442,
+        92
+      ],
+      "file": "09_branding/logo_asa_bottom.png"
+    }
+  ]
+}
